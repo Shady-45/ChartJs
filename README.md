@@ -23,5 +23,5 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/Shady-45/UI-task.git
-   cd react-ui-task
+   cd UI-task
    npm run dev
